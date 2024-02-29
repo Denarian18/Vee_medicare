@@ -1,0 +1,16 @@
+.navbar-brand{
+    color:black;
+}
+.navbar
+strong{
+    color: #0d6efd;
+}
+.col{
+    color: #0d6efd;
+}
+
+.row_row-cols-4 .col{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 0 5px black;
+}
